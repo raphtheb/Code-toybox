@@ -1,1 +1,1 @@
-8e064673-316d-11e5-9cb5-a45e60c3f571
+print 'Hello World!'
